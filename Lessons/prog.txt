@@ -1,0 +1,10 @@
+Course Code : BLM109
+
+Course Title : [[Programming I]]
+
+Instructors : Prof. Dr. [[Ahmet ERDIL]] erdil@kocaeli.edu.tr 02623033223
+                     Prof. Dr. [[Ahmet Say]] ahmet.sayar@kocaeli.edu.tr 02623033583
+                     Prof. Dr. [[Hikmet Hakan GUREL]] hhakan.gurel@kocaeli.edu.tr 2623032215
+                     Prof. Dr. Lecturer. Prof. Dr. [[Alev MUTLU]] alev.mutlu@kocaeli.edu.tr 02623033577
+
+Course Content : Introduction to programming language. Loop and condition statements. Subprograms. Character (string) processing. Other data types. Arrays. struct and union, I/O methods, preprocessor usage. Files. inter type data.        

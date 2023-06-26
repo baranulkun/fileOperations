@@ -1,0 +1,10 @@
+Course Code : BLM109
+
+Course Title : Object Oriented Programming
+
+Instructors : Prof. Dr. [[Ahmet ERDIL]] erdil@kocaeli.edu.tr 02623033223
+                     Prof. Dr. [[Ahmet Say]] ahmet.sayar@kocaeli.edu.tr 02623033583
+                     Prof. Dr. [[Hikmet Hakan GUREL]] hhakan.gurel@kocaeli.edu.tr 2623032215
+                     Prof. Dr. Lecturer. Prof. Dr. [Alev MUTLU] alev.mutlu@kocaeli.edu.tr 02623033577
+
+Course Content : This course covers object-oriented problem solving, class, object concepts, class structure, constructors and destructors, private, protected and public sections, reloading operator and function names in a class, derived classes, virtual classes, polymorphism, inheritance and applications. It is supported by [[Visual Proamming]] course.        

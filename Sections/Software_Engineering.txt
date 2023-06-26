@@ -1,0 +1,4 @@
+Fall Required courses: [[Mathematics_I]] , [[Programming]] 
+Spring Compulsory Courses: [[Mathematics_II]] , [[Programming_II]].
+Elective Courses: [[Object Oriented Programming]], [[Visual Programming]], [[Database Management]], [[Statistics]].
+   

@@ -1,0 +1,7 @@
+Course Code : BLM102
+
+Course Title : Programming II
+
+Instructors : Prof. Dr. [[Ahmet ERDIL]] erdil@kocaeli.edu.tr 02623033223
+
+Course Content: This course is a continuation  [[Programming I]].     

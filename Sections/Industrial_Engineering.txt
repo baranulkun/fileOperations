@@ -1,0 +1,3 @@
+Fall Required courses: [[English_I]] , [[Operation]].
+Spring Required Courses: [[English_II]] , [[Production Planning and Control]].
+Elective Courses: [[Object Oriented Programming]], [[Visual Programming]], [[Database Management]].

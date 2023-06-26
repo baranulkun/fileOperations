@@ -1,0 +1,7 @@
+Course Code : BLM102
+
+Course Title : Mathematics I
+
+Instructors : Prof. Dr. [[Ahmet ERDIL]] erdil@kocaeli.edu.tr 02623033223
+                    
+Course Content: This course covers functions, logarithmic, exponential, inverse trigonometric and hyperbolic functions, limits and uncertainties, continuity, derivatives and applications, indefinite integration, integration methods, definite integration and applications,nd infinite series.     

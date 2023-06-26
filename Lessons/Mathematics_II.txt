@@ -1,0 +1,8 @@
+Course Code : BLM108
+
+Course Title : Mathematics II
+
+Instructors : Prof. Dr. [[Ahmet ERDIL]] erdil@kocaeli.edu.tr 02623033223
+                     Prof. Dr. [[Hikmet Hakan GUREL]] hhakan.gurel@kocaeli.edu.tr 2623032215
+                     
+Course Content: Vectors in 3D space; Lines and planes; Coordinate systems and transformations; Vector valued functions, Functions of several variables: Limits, Continuity, Partial Derivative, Chain Rule, Directional Derivative, Differential; Maximum-Minimum problems, Lagrange multipliers; Multiple integrals and applications; Line integrals and surface integrals. This course is a continuation  [[Mathematics I]].     
